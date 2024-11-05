@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ozaraibo.github.io/Mmn/sitemap_index.txt
+Sitemap: https://ozaraibo.github.io/Nsw/sitemap_index.txt
+Sitemap: https://ozaraibo.github.io/PTs/sitemap_index.txt
+Sitemap: https://ozaraibo.github.io/dwO/sitemap_index.txt
